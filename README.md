@@ -6,6 +6,9 @@ aplikasi yang digunakan untuk menjalankan program
 - web server 
 - PHP7
 
+framework yang digunakan 
+- bootsrap versi 3
+
 aplikasi dibuat dan berjalan di XAMPP v3.1.0 3.1.0
 
 untuk menjalankan aplikasi :
